@@ -8,7 +8,7 @@ This program simulates a real-time navigation system for a train route using a c
 
 The chosen route represents an actual sequence of stations from Vadodara to Bidar, and the circular nature means that after reaching the last station, the train continues back to the first station without stopping.
 
-The program allows the user to move forward (next), move backward (prev), and exit the journey using simple commands.
+The program allows the user to move forward (next), move backward (prev), and exit the journey using simple commands. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Key Features**
 1.Circular Doubly Linked List Implementation
